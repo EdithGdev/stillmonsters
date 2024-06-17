@@ -3,7 +3,7 @@
 export default function Merch() {
   return (
     <main>
-      <h2>Hello! I deleted everything on "page.js" and only kept main tags</h2>
+      <h2>Merch page!</h2>
     </main>
   );
 }
